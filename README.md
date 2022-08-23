@@ -1,9 +1,11 @@
-# react-draggable-slider
+# reactjs-draggable-slider
 
-![GitHub](https://img.shields.io/github/license/dbismut/react-soft-slider) 
-[![NPM Downloads](https://img.shields.io/npm/dt/react-draggable-slider?style=flat)]()  
+![GitHub](#) 
+[![NPM Downloads]()]()  
 
 <p align="left">NPM package for my custom Draggable React Slider using React Spring and GSAP.</p>
+
+<p align="center">by <mark color="red">Mobin veisy</mark></p>
 
 ![gif](https://media.giphy.com/media/gKNT6B5MkMnp4sHMiT/giphy.gif) 
 ![gif-mobile](https://media.giphy.com/media/jmwmKtZR553jULsnCR/giphy.gif)
@@ -16,9 +18,7 @@ npm install react-draggable-slider --save-dev
 
 ### Demo
 
-https://sanderdebr.github.io/react-draggable-slider/
 
-[![Edit agitated-christian-rlg5j](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/agitated-christian-rlg5j?fontsize=14&hidenavigation=1&theme=dark)
 
 ## Usage
 
@@ -80,3 +80,5 @@ The sliderSettings prop in `<Slider sliderSettings={sliderSettings} />` componen
 - React Spring
 - GSAP
 - Styled Components
+
+#### Mobin Veisy - 2022
