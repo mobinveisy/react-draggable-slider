@@ -9,13 +9,13 @@
 ![gif-mobile](https://media.giphy.com/media/jmwmKtZR553jULsnCR/giphy.gif)
 
 ## Installation
-
+https://www.npmjs.com/package/reactjs-draggable-slider
 ```
 npm install react-draggable-slider --save-dev
 ```
 
 ### Demo
-
+https://jovial-pasca-86844f.netlify.app/
 
 
 ## Usage
